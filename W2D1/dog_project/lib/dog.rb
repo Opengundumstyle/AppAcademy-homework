@@ -12,8 +12,10 @@ class Dog
    end
 
    def breed
-      
+      @breed
    end
 
-
+   def age
+      @age
+   end
 end
